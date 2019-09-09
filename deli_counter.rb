@@ -15,9 +15,12 @@ array = []
 katz_deli.each do  |name, i|
     name = "Welcome, #{name}. You are #{i+1} in line."
 
-katz_deli<<name
+array<<name
 
 end
+
+puts array[last]
+
 end
 
 
