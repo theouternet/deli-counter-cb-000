@@ -17,9 +17,10 @@ katz_deli.each do  |name, i|
 
 array<<name
 
+puts array[-1]
+
 end
 
-puts array[-1]
 
 end
 
