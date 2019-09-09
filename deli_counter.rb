@@ -13,7 +13,7 @@ elsif katz_deli.length > 0
 array = []
 
 katz_deli.each do  |name, i|
-    name = "#{i+1}. #{name}"
+    name = "Welcome, #{name}. You are #{i+1} in line."
 
 katz_deli<<name
 
