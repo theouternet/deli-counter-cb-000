@@ -21,6 +21,7 @@ puts array[-1]
 
 end
 
+end
 
 end
 
