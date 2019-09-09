@@ -2,9 +2,9 @@
 
 
 
-def take_a_number(array, name)
+def take_a_number(katz_deli, name)
 
-array << name
+katz_deli << name
 
 puts name, (array.index(name)+1)
 
