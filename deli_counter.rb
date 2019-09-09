@@ -8,7 +8,7 @@ def now_serving(katz_deli)
   
   elsif katz_deli.length > 0 
   
-  katz_deli.drop
+  katz_deli.drop (1)
   
   end
 end
