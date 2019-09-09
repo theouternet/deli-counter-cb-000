@@ -22,7 +22,7 @@ end
 puts array[-1]
 
 end
-end
+
 
 
 def line(katz_deli)
