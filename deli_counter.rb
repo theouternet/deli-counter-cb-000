@@ -19,7 +19,7 @@ array<<name
 
 end
 
-puts array[-1]
+array[-1]
 
 
 
