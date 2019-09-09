@@ -6,7 +6,9 @@ def now_serving(katz_deli)
     
     puts "There is nobody waiting to be served!"
   
-  elsif 
+  elsif katz_deli.length > 0 
+  
+  katz_deli.drop
   
   end
 end
